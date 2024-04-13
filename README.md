@@ -1,4 +1,4 @@
-# Readme - React Branch
+# React Branch
 ## Earthquake Tracker - React Branch
 
 Welcome to the React branch of Earthquake Tracker! This branch contains the React-based front-end application for querying the Earthquake Tracker API and visualizing seismic data.
