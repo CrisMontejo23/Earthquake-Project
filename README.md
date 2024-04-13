@@ -1,4 +1,4 @@
-# Readme - Ruby Branch
+# Ruby Branch
 ## Earthquake Tracker - Ruby Branch
 
 Welcome to the Ruby branch of Earthquake Tracker! This branch contains the Ruby application responsible for obtaining and persisting seismic data, as well as exposing a REST API for data retrieval and comment creation.
