@@ -9,7 +9,7 @@ The main objective of this React application is to provide a user-friendly inter
 ## Development Overview
 
 1. User Interface:
-* A simple web page is developed using HTML5 and JavaScript (React) to query the Earthquake Tracker API.
+* A simple web page is developed using React to query the Earthquake Tracker API.
 
 2. Integration with API:
 * The React application integrates with the Earthquake Tracker API to fetch and display seismic data.
